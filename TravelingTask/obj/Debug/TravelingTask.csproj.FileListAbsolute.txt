@@ -1,0 +1,12 @@
+c:\users\тернт\documents\visual studio 2015\Projects\TravelingTask\TravelingTask\bin\Debug\TravelingTask.exe.config
+c:\users\тернт\documents\visual studio 2015\Projects\TravelingTask\TravelingTask\obj\Debug\TravelingTask.csprojResolveAssemblyReference.cache
+c:\users\тернт\documents\visual studio 2015\Projects\TravelingTask\TravelingTask\bin\Debug\TravelingTask.exe
+c:\users\тернт\documents\visual studio 2015\Projects\TravelingTask\TravelingTask\bin\Debug\TravelingTask.pdb
+c:\users\тернт\documents\visual studio 2015\Projects\TravelingTask\TravelingTask\bin\Debug\Microsoft.UnitTestFramework.Extensions.dll
+c:\users\тернт\documents\visual studio 2015\Projects\TravelingTask\TravelingTask\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\тернт\documents\visual studio 2015\Projects\TravelingTask\TravelingTask\bin\Debug\nunit.framework.dll
+c:\users\тернт\documents\visual studio 2015\Projects\TravelingTask\TravelingTask\bin\Debug\Microsoft.UnitTestFramework.Extensions.xml
+c:\users\тернт\documents\visual studio 2015\Projects\TravelingTask\TravelingTask\bin\Debug\nunit.framework.xml
+c:\users\тернт\documents\visual studio 2015\Projects\TravelingTask\TravelingTask\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\тернт\documents\visual studio 2015\Projects\TravelingTask\TravelingTask\obj\Debug\TravelingTask.exe
+c:\users\тернт\documents\visual studio 2015\Projects\TravelingTask\TravelingTask\obj\Debug\TravelingTask.pdb
